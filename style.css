@@ -8,7 +8,7 @@ div{
     top: 50%; /*Espaço do top da tela*/
     left: 50%; /*Se destancia para o lado esquerdo*/
     transform: translate(-50%,-50%); /*permite mover um elemento em uma direção horizontal, vertical ou ambas, sem afetar o layout ao redor dele (ponto x e ponto y)*/
-    padding: 80px; /*O espaçamento interto do elemento*/
+    padding: 50px; /*O espaçamento interto do elemento*/
     border-radius: 15px; /*Aredondar borda*/
     color: white; /*Cor do texto*/
 }
